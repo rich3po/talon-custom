@@ -1,0 +1,5 @@
+junk: key(backspace)
+shock: key(enter)
+scrap: key(delete)
+doom: key(down)
+jeep: key(up)

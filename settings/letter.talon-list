@@ -1,0 +1,32 @@
+list: user.letter
+os: mac
+-
+
+# for common alternative spoken forms for letters, visit
+# https://talon.wiki/Resource%20Hub/Speech%20Recognition/improving_recognition_accuracy#collected-alternatives-to-the-default-alphabet
+alpha: a
+bat: b
+cap: c
+drum: d
+echo: e
+fine: f
+golf: g
+hotel: h
+indy: i
+Julie: j
+kilo: k
+lima: l
+mike: m
+nova: n
+odd: o
+pill: p
+queen: q
+red: r
+sun: s
+tango: t
+uni: u
+vest: v
+whale: w
+xray: x
+yankee: y
+zulu: z

@@ -7,6 +7,8 @@ insert meeting:
     sleep(300ms)
     key(enter)
 
+insert comment: key(cmd-alt-m)
+
 ^list$:
     key(cmd-right)
     key(enter)

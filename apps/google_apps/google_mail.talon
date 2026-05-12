@@ -14,7 +14,7 @@ trash: insert("E")
 mark unread: key(shift-u)
 mail search: key("/")
 mail compose: key("c")
-reply: insert("r")
+^reply$: insert("r")
 reply all: insert("a")
 select: insert("x")
 trash it:
